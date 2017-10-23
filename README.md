@@ -1,3 +1,5 @@
+**Note: Does not work with headphones!
+
 PiaNO ... more like PiaYES. Welcome to **Brad's Really Accessible Daw (B.R.A.D.) : Piayes Edition**, a digital audio workstation customized to fit the needs of our main user, Brad, and help him play piano again. <br>
 
 ##### EECS 481 - Winter 2017 <br>
