@@ -11,7 +11,8 @@ Brad's DAW GROUP 2 - *B.R.A.D.* <br> Anna Billings, Mathew Wiesman, Chris Salem,
 Step 1: the user records a melody without worrying about the tempo/rhythm of the song. <br>
 Step 2: The user can then play a rhythm and rather than have to worry about the notes they are playing, the application will play the notes that were recorded from the melody no matter the key played. <br>
 Additionally, melodies can be saved, loaded, and combined together so the user can always return to a melody they are working on. <br>
-
+### Demo <br>
+![alt_tag](https://www.youtube.com/watch?v=RKDnZsAb29I&feature=youtu.be)
 ### Features <br>
 Chord Triggering <br>
 Octave Switching at the touch of a button <br>
